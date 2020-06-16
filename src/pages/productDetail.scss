@@ -1,0 +1,43 @@
+
+.productDetailContainer {
+    height: 85%;
+
+    img {
+        width: 100%;
+        vertical-align: middle;
+    } 
+}
+
+.buttonContainer {
+    height: 15%;  
+
+    .row {
+        display: flex;
+       
+        .col4 {
+            display: block;
+            flex-wrap: wrap;
+            flex: 0 0 25%;
+            margin: auto;
+            border-width:1px;
+            border-style: solid;
+            border-color: gray;
+            span{
+                background-color: rgb(245, 138, 156);
+                display: block;
+                text-decoration: none;
+                color: white;
+                padding:17px;
+
+            }
+            
+            .button {
+                width: 106px;
+                height: 56px;
+            }
+        }
+    }  
+}
+
+
+

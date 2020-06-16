@@ -1,0 +1,77 @@
+
+.addCartHeader {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 30px;
+
+
+}
+
+.leftContainer{
+    
+    width: 20%;
+    display: flex;
+    float: left;
+}
+
+.rightContainer{
+    display: flex;
+    width: 80%;
+    
+}
+
+
+.leftContainer img{
+    width: 100%;
+    vertical-align: middle;
+}
+
+.addCartContent{
+    width: 100%;
+    line-height: 40px;
+}
+
+.amountSelectorContainer {
+    width: 100%;
+    display: flex; 
+    float: left;
+    
+}
+
+.amountSelectorLeft {
+    /* margin-left: 0; */
+    width: 40%;
+    
+    
+}
+
+.amountSelectorRight {
+    
+    width: 60%;
+    /* display: inline-flex; */
+    
+    
+}
+
+.counterContainer{
+    
+    display: flex;
+    float: right;
+    
+    
+
+}
+
+.counterBtn {
+    width: 30px;
+    height: 30px;
+    line-height: 20px;
+    margin: auto 10px;
+}
+
+
+
+
+.addCartFooter {
+    width: 100%;
+}

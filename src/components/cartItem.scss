@@ -1,0 +1,53 @@
+.cartList {
+    display: flex;
+    width: 100%;
+    flex: 1 1 auto;
+    margin: 4px auto;
+    border-bottom: 1px gainsboro;
+    border-style: solid;
+    
+       
+    .cartListLeftContainer{
+        width: 20%;
+        display: flex;
+        float: left;
+        
+        img {
+            width: auto;
+            border-radius: 6px;
+        }
+    }
+    .cartListRightContainer{
+        width: 80%;
+        
+        display: block;
+        .textContainer {
+            margin: 6px auto;
+
+            span {   
+                font-size: 18px;
+            } 
+
+            .textProductName {
+                color:black ;
+            }
+
+            .textProductPrice {
+                
+            }
+        }
+        
+        .buttonContainer {
+            letter-spacing: 10px;
+            .addUnit {
+
+            }
+            
+            button {
+                font-size: 16px;
+            }
+        }
+
+        
+    }
+}

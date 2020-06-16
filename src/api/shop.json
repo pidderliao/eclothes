@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "productImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79492_710_E7B485.jpg",
+        "productName": "迪士尼Toy Story系列純棉T-shirts",
+        "productPrice": "$290",
+        "colorImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79482_color_E6B7BAE7B289.jpg",
+        "colorName": "粉紅"
+    },
+    {
+        "id": 2,
+        "productImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79190_710_E9BB91.jpg",
+        "productName": "迪士尼Toy Story系列純棉T-shirts",
+        "productPrice": "$290",
+        "colorImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79482_color_E88AA5E9BB83.jpg",
+        "colorName": "黃"
+    },
+    {
+        "id": 3,
+        "productImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79190_710_E9BB91.jpg",
+        "productName": "迪士尼Toy Story系列純棉T-shirts",
+        "productPrice": "$290",
+        "colorImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79482_color_E781B0E7B6A0.jpg",
+        "colorName": "綠"
+    },
+    {
+        "id": 4,
+        "productImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79190_710_E9BB91.jpg",
+        "productName": "迪士尼Toy Story系列純棉T-shirts",
+        "productPrice": "$290",
+        "colorImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79482_color_E7B485.jpg",
+        "colorName": "紅"
+    },
+    {
+        "id": 5,
+        "productImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79190_710_E9BB91.jpg",
+        "productName": "迪士尼Toy Story系列純棉T-shirts",
+        "productPrice": "$290",
+        "colorImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79482_color_E88AA5E9BB83.jpg",
+        "colorName": "黃"
+    },
+    {
+        "id": 6,
+        "productImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79190_710_E9BB91.jpg",
+        "productName": "迪士尼奇奇蒂蒂系列純棉T-shirts",
+        "productPrice": "$199",
+        "productSize": "S",
+        "colorImg": "https://efshop3-wabow.cdn.hinet.net/files/1/products/79482_color_E6B7BAE7B289.jpg",
+        "colorName": "白"
+    }
+]

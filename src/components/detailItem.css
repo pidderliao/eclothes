@@ -1,0 +1,15 @@
+.detailNameContainer {
+    width: 100%;
+    
+}
+.detailItemLeft {
+    
+    text-align: left;
+    font-size: 20px;
+    
+    
+}
+.detailItemRight {
+    text-align: right;
+    font-size: 20px;
+}
