@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/eclothesDemo/static/css/main.ada6033c.chunk.css",
-    "main.js": "/eclothesDemo/static/js/main.b6ff50dc.chunk.js",
-    "main.js.map": "/eclothesDemo/static/js/main.b6ff50dc.chunk.js.map",
-    "runtime-main.js": "/eclothesDemo/static/js/runtime-main.e7d4fe52.js",
-    "runtime-main.js.map": "/eclothesDemo/static/js/runtime-main.e7d4fe52.js.map",
-    "static/css/2.63b65d4e.chunk.css": "/eclothesDemo/static/css/2.63b65d4e.chunk.css",
-    "static/js/2.2b91eeef.chunk.js": "/eclothesDemo/static/js/2.2b91eeef.chunk.js",
-    "static/js/2.2b91eeef.chunk.js.map": "/eclothesDemo/static/js/2.2b91eeef.chunk.js.map",
-    "index.html": "/eclothesDemo/index.html",
-    "precache-manifest.eca8a2b6af7a5ed99f3592a96b42cfa8.js": "/eclothesDemo/precache-manifest.eca8a2b6af7a5ed99f3592a96b42cfa8.js",
-    "service-worker.js": "/eclothesDemo/service-worker.js",
-    "static/css/2.63b65d4e.chunk.css.map": "/eclothesDemo/static/css/2.63b65d4e.chunk.css.map",
-    "static/css/main.ada6033c.chunk.css.map": "/eclothesDemo/static/css/main.ada6033c.chunk.css.map",
-    "static/js/2.2b91eeef.chunk.js.LICENSE.txt": "/eclothesDemo/static/js/2.2b91eeef.chunk.js.LICENSE.txt"
+    "main.css": "/eclothes/static/css/main.ada6033c.chunk.css",
+    "main.js": "/eclothes/static/js/main.7e00a0d3.chunk.js",
+    "main.js.map": "/eclothes/static/js/main.7e00a0d3.chunk.js.map",
+    "runtime-main.js": "/eclothes/static/js/runtime-main.cf2d38ef.js",
+    "runtime-main.js.map": "/eclothes/static/js/runtime-main.cf2d38ef.js.map",
+    "static/css/2.63b65d4e.chunk.css": "/eclothes/static/css/2.63b65d4e.chunk.css",
+    "static/js/2.a70f12bb.chunk.js": "/eclothes/static/js/2.a70f12bb.chunk.js",
+    "static/js/2.a70f12bb.chunk.js.map": "/eclothes/static/js/2.a70f12bb.chunk.js.map",
+    "index.html": "/eclothes/index.html",
+    "precache-manifest.8691a399e0b8e91d9d707504c9bc3663.js": "/eclothes/precache-manifest.8691a399e0b8e91d9d707504c9bc3663.js",
+    "service-worker.js": "/eclothes/service-worker.js",
+    "static/css/2.63b65d4e.chunk.css.map": "/eclothes/static/css/2.63b65d4e.chunk.css.map",
+    "static/css/main.ada6033c.chunk.css.map": "/eclothes/static/css/main.ada6033c.chunk.css.map",
+    "static/js/2.a70f12bb.chunk.js.LICENSE.txt": "/eclothes/static/js/2.a70f12bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7d4fe52.js",
+    "static/js/runtime-main.cf2d38ef.js",
     "static/css/2.63b65d4e.chunk.css",
-    "static/js/2.2b91eeef.chunk.js",
+    "static/js/2.a70f12bb.chunk.js",
     "static/css/main.ada6033c.chunk.css",
-    "static/js/main.b6ff50dc.chunk.js"
+    "static/js/main.7e00a0d3.chunk.js"
   ]
 }
