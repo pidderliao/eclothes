@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
 
-      <BrowserRouter>
+      <BrowserRouter basename={ process.env.PUBLIC_URL }>
         <Switch>
           <Route exact={true} path="/" component={Home} />
           <Route path="/classification" component={classification} />
